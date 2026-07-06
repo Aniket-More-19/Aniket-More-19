@@ -3,7 +3,8 @@
 I'm a Software Engineer.
  
 - 🔧 Build REST APIs using **Python**, **FastAPI**, **MongoDB**, and **PostgreSQL**
-- 💼 Previously worked as a Cloud Engineer on a medical imaging and data migration product, writing clean, production-quality backend code
+- 💼 Previously worked as a Cloud Engineer on a medical imaging and data migration product,
+     writing clean, production-quality backend code
 - 🛠️ Comfortable with **Docker**, **CI/CD**, and deploying on **AWS**
 - 🧩 Some experience with **React.js** and **React Native**, though backend remains my main focus
 - 🌱 Currently sharpening my knowledge of **cloud infrastructure and DevOps practices**

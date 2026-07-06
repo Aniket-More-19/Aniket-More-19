@@ -9,6 +9,7 @@ I'm a Software Engineer.
 - 🧩 Some experience with **React.js** and **React Native**, though backend remains my main focus
 - 🌱 Currently sharpening my knowledge of **cloud infrastructure and DevOps practices**
 - 🤝 Worked in agile, client-facing teams — collaborating with stakeholders across the Netherlands, UK, and EU
+- 🪕 A sitarist by hobby, and a tea lover
 - 📫 Reach me at **aniket19m@gmail.com** or [LinkedIn](https://linkedin.com/in/aniketmore19)
 
 

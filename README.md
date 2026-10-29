@@ -1,39 +1,19 @@
-### Hi, I'm Aniket 👋
- 
-I'm a Software Engineer.
- 
-- 🔧 Build REST APIs using **Python**, **FastAPI**, **MongoDB**, and **PostgreSQL**
-- 💼 Previously worked as a Cloud Engineer on a medical imaging and data migration product,
-     writing clean, production-quality backend code
-- 🛠️ Comfortable with **Docker**, **CI/CD**, and deploying on **AWS**
-- 🧩 Some experience with **React.js** and **React Native**, though backend remains my main focus
-- 🌱 Currently sharpening my knowledge of **cloud infrastructure and DevOps practices**
-- 🤝 Worked in agile, client-facing teams — collaborating with stakeholders across the Netherlands, UK, and EU
-- 🪕 A sitarist by hobby, and a tea lover
-- 📫 Reach me at **aniket19m@gmail.com** or [LinkedIn](https://linkedin.com/in/aniketmore19)
+
+# 👋 Hi, I'm Aniket More
+
+I'm a Salesforce Developer with hands-on development experience in Apex, Lightning Web Components (LWC), SOQL, and SOSL, built on a foundation of full-stack engineering — REST API development in Python, frontend development in React.js and React Native, relational and NoSQL database, and object-oriented programming. Brings strong analytical and client requirement translation skills from prior full-stack and API development roles to Salesforce platform development and automation.
+
+## 🛠️ Technical Skills
+
+- ☁️ **Salesforce:** Apex, Lightning Web Components (LWC), SOQL, SOSL, Salesforce Flow, Apex Triggers, Salesforce Data Model, Salesforce CLI (SF/SFDX), REST and SOAP APIs, Governer Limits
+- 💻 **Languages:** Python, JavaScript, TypeScript, SQL, Apex, HTML/CSS
+- ⚙️ **Frameworks & Libraries:** FastAPI, React.js, React Native
+- 🗄️ **Databases:** PostgreSQL, MongoDB
+- 🚀 **Cloud & DevOps:** AWS, Docker, Docker Compose, Linux, CI/CD, Git/GitHub
+- 🧠 **Concepts:** Object-Oriented Programming (OOP), REST APIs
+- 🔧 **Developer Tools:** VS Code, GitHub Copilot, Claude, ChatGPT
 
 
----
+## 🌐 My Portfolio
 
-
-#### 🧰 Tech I work with
-
-**Languages:** Python, JavaScript, TypeScript, SQL
-
-**Backend:** FastAPI, REST APIs, Pydantic, OOP
-
-**Databases:** PostgreSQL, MongoDB
-
-**Cloud & DevOps:** AWS, Docker, CI/CD, Git/GitHub, Linux
-
-**Frontend (secondary):** React.js, React Native
-
----
-
-#### 📌 A bit about how I work
-
-I like understanding *why* something works before I ship it — whether that's a backend API, a frontend feature, or a piece of infrastructure. I care about writing clean, maintainable code and enjoy working closely with the people who'll actually use what I build.
-
----
-
-<sub>Currently based in Latur, Maharashtra, India</sub>
+🔗 Check out my [Portfolio Website](https://orgfarm-2fcac9c962-dev-ed.develop.my.site.com/aniketsPortfolio) to explore my projects, technical skills, and professional experience.

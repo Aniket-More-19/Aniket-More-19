@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Aniket More
 
-I'm a Salesforce Developer with hands-on development experience in Apex, Lightning Web Components (LWC), SOQL, and SOSL, built on a foundation of full-stack engineering — REST API development in Python, frontend development in React.js and React Native, relational and NoSQL database, and object-oriented programming. Brings strong analytical and client requirement translation skills from prior full-stack and API development roles to Salesforce platform development and automation.
+I'm a Salesforce Admin/Developer with hands-on development experience in Apex, Lightning Web Components (LWC), SOQL, and SOSL, built on a foundation of full-stack engineering — REST API development in Python, frontend development in React.js and React Native, relational and NoSQL database, and object-oriented programming. Brings strong analytical and client requirement translation skills from prior full-stack and API development roles to Salesforce platform development and automation.
 
 ## 🛠️ Technical Skills
 
